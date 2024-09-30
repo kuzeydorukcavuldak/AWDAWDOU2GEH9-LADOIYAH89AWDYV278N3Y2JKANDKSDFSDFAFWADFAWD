@@ -1,1 +1,0 @@
-user2:password2:78.167.2.31:eggwick:1480.00:https://cdn.discordapp.com/guilds/1265487293234413620/users/1144676716904730684/avatars/a_1044d7ea4efa529ce3679ed11fae0251.webp?size=128
