@@ -1,0 +1,2 @@
+user2:password2:78.167.2.31:eggwick:1480.00:https://cdn.discordapp.com/guilds/1265487293234413620/users/1144676716904730684/avatars/a_1044d7ea4efa529ce3679ed11fae0251.webp?size=128
+user3:password3:78.167.2.31:assassins:590.00:https://cdn.discordapp.com/avatars/1165000986650230814/dcb23986f630894224ead154597663f0.webp?size=128
